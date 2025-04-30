@@ -92,3 +92,10 @@ footer p{
     font-family: Tahoma, sans-serif;
     font-size: 20px;
 }
+footer div img{
+    width: 32px;
+    height: 32px;
+    justify-content:flex-end;
+    align-items:flex-end;
+
+}
